@@ -1,5 +1,5 @@
 {
-  "name": "NHLDataProject",
+  "name": "nhldataproject",
   "version": "0.0.1",
   "main": "webpack.config.js",
   "dependencies": {
