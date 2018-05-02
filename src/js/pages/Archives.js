@@ -22,7 +22,7 @@ export default class Archives extends React.Component {
 
     return (
       <div>
-        <h1>Archives</h1>
+        <h3>Archives</h3>
         article: {article}, date: {date}, filter: {filter}
         <div class="row">{Articles}</div>
       </div>
