@@ -27,5 +27,6 @@
   },
   "author": "Greg Sousa <gms@thesousas.com>",
   "license": "ISC",
-  "description": "node usage to query NHL data from MSF"
+  "description": "node usage to query NHL data from MSF",
+  "repository": "https://github.com/gms08/nhldataproject.git"
 }
