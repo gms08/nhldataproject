@@ -15,7 +15,6 @@ export default class Data extends React.Component {
     
     return (
       <h3>Data</h3>
-      <div class="row">{Data}</div>
     );
   }
 }
